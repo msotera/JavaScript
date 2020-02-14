@@ -1,0 +1,51 @@
+body 
+{
+  background-image: url("rickcat.jpg");
+}
+
+
+h1 
+{
+    color: black;
+    text-align: center;
+    
+}
+
+p
+{
+    text-align: center;
+    text-decoration: : bold;
+}
+
+form 
+{
+    display: inline-block;
+}
+
+#list 
+{
+    position: fixed;
+    margin-left: 47%;
+    color: black;
+    border: solid;
+    border-color: black;
+    text-align: center;
+}
+
+
+button
+{
+    
+    color: black;
+    
+}
+
+input
+{
+    position: center;
+    color: black;
+    border-color: black;
+    text-align: center;
+    margin-left: 45%;
+    
+}
